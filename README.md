@@ -9,7 +9,7 @@ Angle of Arrival implementation using MUSIC algorithm. The implementation is ver
                     | Ant 10 | ANT 11 | ANT 0  | ANT 1  |
                     +--------+--------+--------+--------+
                     | Ant 9  |                 | ANT 2  |
-90 degree  ---------+--------+                 +--------+--------- 270 degree
+                    +--------+                 +--------+--------- 270 degree
                     | Ant 8  |                 | ANT 3  |
                     +--------+--------+--------+--------+
                     | Ant 7  | ANT 6  | ANT 5  | ANT 4  |
